@@ -1,5 +1,7 @@
 ## BOT-WHATSAPP
-
+## INTEGRANTES:
+* Maricarmen Catalina Raymundo Romero
+* Yo (Adrian Josue Alvarado Sanchez)
 >Proposito: Crearemos un botchat de un tienda llamara "MOBILE", donde el bot respondera las consultas de los clientes interesados de la tienda.
 
 -Vamos a utilizar la libreria `<whatsapp-web.js>`. 
